@@ -1,0 +1,11 @@
+requests
+PyYAML
+pandas
+numpy
+xarray
+netCDF4
+copernicusmarine
+Jinja2
+beautifulsoup4
+lxml
+tenacity
