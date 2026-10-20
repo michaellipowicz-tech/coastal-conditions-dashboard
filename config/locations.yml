@@ -1,0 +1,31 @@
+timezone: Europe/Rome
+forecast_days: 7
+
+locations:
+
+  - key: IT-CAM-MASSA
+    name: Sorrentine Coast near Massa Lubrense
+    region: Campania
+    latitude: 40.61173
+    longitude: 14.34330
+    active: true
+    warning_scope: CAMPANIA
+    observation_station: null
+
+  - key: IT-PUG-PUGNOCHIUSO
+    name: Gargano Coast near Pugnochiuso
+    region: Puglia
+    latitude: 41.78458
+    longitude: 16.18224
+    active: true
+    warning_scope: PUGLIA
+    observation_station: null
+
+  - key: IT-LAZ-PUNTAROSSA
+    name: Punta Rossa - San Felice Circeo
+    region: Lazio
+    latitude: 41.22881
+    longitude: 13.05136
+    active: true
+    warning_scope: LAZIO
+    observation_station: null
